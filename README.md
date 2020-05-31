@@ -9,4 +9,7 @@ showing how to use Git and Github together.
 
 ## Deployment
 
+This is example to show different parts of
+Git Repository.
+
 ## How to Contribute
