@@ -18,6 +18,8 @@ Git Repository.
 
 ## How to Contribute
 
+Added Contribute
+
 ## Copyright
 
 2014 Copyright
