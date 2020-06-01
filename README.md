@@ -17,3 +17,7 @@ This is example to show different parts of
 Git Repository.
 
 ## How to Contribute
+
+## Copyright
+
+2014 Copyright
