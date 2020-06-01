@@ -22,4 +22,4 @@ Added Contribute
 
 ## Copyright
 
-2014 Copyright
+2014 Copyright All rights reserved
